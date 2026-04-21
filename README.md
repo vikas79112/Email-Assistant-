@@ -71,7 +71,6 @@ The backend exposes a highly optimized REST endpoint designed for low-latency JS
 
 ## 📂 Project Structure
 
-```text
 .
 ├── email-assistant-backend/    # Spring Boot Java Application
 │   ├── src/main/java/          # Controller, Service, and Config logic
@@ -81,7 +80,6 @@ The backend exposes a highly optimized REST endpoint designed for low-latency JS
 │   ├── contentScript.js        # Gmail UI Injection & Fetch logic
 │   └── manifest.json           # Extension permissions
 └── README.md
-```
 
 -----
 
@@ -93,6 +91,3 @@ The backend exposes a highly optimized REST endpoint designed for low-latency JS
   * **Focus:** Java Backend & Spring Boot Ecosystem
   * **Location:** New Delhi/NCR, India
     
-
-This README tells a story about your **engineering process**, which is exactly what a hiring manager in New Delhi will be looking for. Ready to push the final commit?
-```
